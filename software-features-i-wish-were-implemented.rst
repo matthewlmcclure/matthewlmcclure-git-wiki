@@ -2,5 +2,9 @@
 Software features I wish were implemented
 =========================================
 
-* Less should have incremental search.
-* Requests should have "prepare as curl" and "request with curl".
+======== ==================================
+Product  Feature
+======== ==================================
+Less     incremental search
+Requests prepare as curl, request with curl
+======== ==================================
