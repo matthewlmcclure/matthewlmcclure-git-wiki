@@ -7,5 +7,5 @@
 ## Using a plain repository as a wiki
 
 * Allows finding content via code search.
-* Web editor doesn't have preview.
+* <del>Web editor doesn't have preview.</del> As of 2014-03-06, web editor has preview.
 * Web editor doesn't have delete.
