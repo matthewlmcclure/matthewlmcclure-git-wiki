@@ -8,4 +8,4 @@
 
 * Allows finding content via code search.
 * <del>Web editor doesn't have preview.</del> As of 2014-03-06, web editor has preview.
-* Web editor doesn't have delete.
+* <del>Web editor doesn't have delete.</del> As of 2014-03-06, web editor has delete.
